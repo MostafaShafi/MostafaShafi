@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a java programmer with 5 years of experience in software developer.<br>My expertise lies in creating efficient and scalable Java applications using various frameworks and libraries.<br><br>Currently I’m working on developing an ERP using java and PL/SQL.
+I’m a java developer with 5 years of experience in software developer.<br>My expertise lies in creating efficient and scalable Java applications using various frameworks and libraries.<br><br>Currently I’m working on developing an ERP using java and PL/SQL.
 
 
 ## 🌐 Socials:
